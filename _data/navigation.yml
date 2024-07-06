@@ -1,22 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/   
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /files/cv_mengyingxie.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "中文版"
+    url: /chinese/    
+        
