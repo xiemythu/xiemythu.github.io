@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Mengying Xie, and I am a PhD candidate in the [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/english/ at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China.
+Welcome to my website! My name is Mengying Xie, and I am a PhD candidate in the [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/english/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China.
 
 My research interests lie in the intersection between international political economy and public policy, focusing on global governance and international development. I am particularly interested in questions related to transnational climate governance and sustainable development.
 
