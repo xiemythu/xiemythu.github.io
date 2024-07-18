@@ -3,8 +3,6 @@ permalink: /chinese/
 author_profile: true
 ---
 
-# 谢蒙莹
-
 ## 个人简介
 
 谢蒙莹，清华大学公共管理学院博士生。
