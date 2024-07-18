@@ -2,15 +2,6 @@
 permalink: /chinese/
 author_profile: true
 ---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href=" ">my Google Scholar profile</a >.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 # 谢蒙莹
 
@@ -40,5 +31,5 @@ author_profile: true
 
 ## 英文同行评议学术发表
 
-* 温尧、谢蒙莹、陈冲：《“一带一路”浪潮的生成——基于空间模型的分析》，载《世界经济与政治》，2021年第2期，第134-154页。
-    + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [复制数据](https://doi.org/10.7910/DVN/N8B5BC), [在线附录](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
+* Ling Chen, Mengying Xie, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3),"[in English] ***Global Public Policy and Governance***, 3:60-85
+    + [PDF](https://xiemythu.github.io/files/chen_xie_2023.pdf)
