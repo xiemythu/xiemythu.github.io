@@ -3,7 +3,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-
+{% include base_path %}
 
 ## 个人简介
 
