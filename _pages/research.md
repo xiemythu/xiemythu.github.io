@@ -4,11 +4,6 @@ author_profile: true
 ---
 
 
-# Research
-
-
-
-
 ## Peer-Reviewed Articles
 
 * Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3)," ***Global Public Policy and Governance***, 3:60-85
