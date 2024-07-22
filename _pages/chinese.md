@@ -3,15 +3,15 @@ permalink: /chinese/
 author_profile: true
 ---
 
+
+
 ## 个人简介
 
 谢蒙莹，清华大学公共管理学院博士生。
 
-
 - 点击下载我的[**中文简历**](https://xiemythu.github.io/files/cv_mengying_chinese.pdf)。
 
 - 点击查看我的[**科研**](#科研)情况。
-
 
 
 - 联系方式
