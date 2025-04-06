@@ -26,7 +26,9 @@ author_profile: true
 
 * **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation" (Revise and Resubmit at *Public Administration and Development*)
 
-* **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review at *Climate Policy*)
+* **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review)
 
-* **Mengying Xie** and  Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and domestic corporate lobbying." (Under Review)
+## Working Papers
+
+* **Mengying Xie** and  Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and domestic corporate lobbying." 
 
