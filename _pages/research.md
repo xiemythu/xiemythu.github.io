@@ -20,4 +20,13 @@ author_profile: true
 * Yao Wen, **Mengying Xie**, and [Chong Chen](https://cc458.github.io/), "Explaining the Wave of Foreign Participation in Chinese Belt and Road Initiative: Evidence from Spatial Analyses," ***World Economics and Politics*** (世界经济与政治), No. 2, 2021, pp. 134-154.
     + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [Replication Data](https://doi.org/10.7910/DVN/N8B5BC), [Online Appendix](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
 
+## Under Revision/Review
+
+* **Mengying Xie** and  Ling Chen, “rivate Governance in Climate Mitigation: A Global Comparison of Corporate Participate in Voluntary Carbon Markets." (Revise and Resubmit at *Journal of Comparative Policy Analysis*)
+
+* **Mengying Xie** and Yijia Jing, ``Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation" (Revise and Resubmit at *Public Administration and Development*)
+
+* **Mengying Xie** and  Ling Chen, ``A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review at *Climate Policy*)
+
+* **Mengying Xie** and  Yixian Sun, ``Global ties, local leverages: Transnational public-private initiatives and domestic corporate lobbying." (Under Review)
 
