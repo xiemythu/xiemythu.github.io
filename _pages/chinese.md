@@ -29,7 +29,7 @@ author_profile: true
 ## 中文同行评议学术发表
 
 * **谢蒙莹**: 《国际环境协定的网络效应与国内气候治理行动》，载《**世界经济与政治**》，2025年第4期，第133-163页。
-    + [PDF](https://cc458.github.io/files/wpe_2025.pdf)
+    + [PDF](https://xiemythu.github.io/files/wpe_2025.pdf)
      
 * 温尧、**谢蒙莹**、[陈冲](https://cc458.github.io/)：《“一带一路”浪潮的生成——基于空间模型的分析》，载《**世界经济与政治**》，2021年第2期，第134-154页。
     + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [复制数据](https://doi.org/10.7910/DVN/N8B5BC), [在线附录](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
