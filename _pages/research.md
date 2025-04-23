@@ -12,8 +12,9 @@ author_profile: true
 
 ## Peer-Reviewed Articles
 
-*  **Mengying Xie**, "Network effects of international environmental agreements on domestic climate governance," [in Chinese] ***World Economics and Politics***(世界经济与政治), No.4, 2025, Forthcoming.
- 
+*  **Mengying Xie**, "Network effects of international environmental agreements on domestic climate governance," [in Chinese] ***World Economics and Politics***(世界经济与政治), No.4, 2025, pp.133-163.
+    + [PDF](https://xiemythu.github.io/files/wpe_2025.pdf)
+    
 * Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3)," ***Global Public Policy and Governance***, 3:60-85
     + [PDF](https://xiemythu.github.io/files/chen_xie_2023.pdf)
       
