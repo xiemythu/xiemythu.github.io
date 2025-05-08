@@ -49,4 +49,4 @@ author_profile: true
 
 ## 工作论文  
 
-* **Mengying Xie** and  Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and domestic corporate lobbying." 
+* **Mengying Xie** and  Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and corporate climate lobbying." 
