@@ -7,7 +7,7 @@ author_profile: true
 
 ## 个人简介
 
-谢蒙莹，清华大学公共管理学院2022级博士生。2021年获得复旦大学-伦敦政治经济学院全球政治经济英文双硕士学位，2019年在南开大学周恩来政府管理学院获得法学学士学位（国际政治专业）；2025年春季担任牛津大学政治与国际关系学系访问学生。主要研究领域包括全球治理（如跨国气候治理、私人规制）、国际发展（“一带一路”倡议、国际援助）以及可持续发展政策（绿色基础设施建设、气候变化、性别平等）。研究成果发表于《世界经济与政治》、*Global Public Policy and Governance*等学术期刊。
+谢蒙莹，清华大学公共管理学院2022级博士生。2021年获得复旦大学-伦敦政治经济学院全球政治经济英文双硕士学位，2019年在南开大学周恩来政府管理学院获得法学学士学位（国际政治专业）；2025年春季担任牛津大学政治与国际关系学系访问学生。主要研究领域包括全球治理（如跨国气候治理、私人规制）、国际发展（“一带一路”倡议、国际援助）以及可持续发展政策（绿色基础设施建设、气候变化、性别平等）。研究成果发表于《世界经济与政治》、*Journal of Comparative Policy Analysis*, *Global Public Policy and Governance*等学术期刊。
 
 - 点击下载我的[**中文简历**](https://xiemythu.github.io/files/cv_mengying_chinese.pdf)。
 
@@ -38,10 +38,10 @@ author_profile: true
 
 * Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3),"[in English] ***Global Public Policy and Governance***, 3:60-85
     + [PDF](https://xiemythu.github.io/files/chen_xie_2023.pdf)
+
+* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets," forthcoming in ***Journal of Comparative Policy Analysis***
  
 ## 修改在审论文
-
-* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participate in Voluntary Carbon Markets." (Revise and Resubmit at *Journal of Comparative Policy Analysis*)
 
 * **Mengying Xie** and Yijia Jing, ”Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation" (Revise and Resubmit at *Public Administration and Development*)
 
