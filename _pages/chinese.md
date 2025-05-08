@@ -39,7 +39,7 @@ author_profile: true
 * Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3),"[in English] ***Global Public Policy and Governance***, 3:60-85
     + [PDF](https://xiemythu.github.io/files/chen_xie_2023.pdf)
 
-* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets," forthcoming in ***Journal of Comparative Policy Analysis***
+* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets," ***Journal of Comparative Policy Analysis*** (forthcoming)
  
 ## 修改在审论文
 
