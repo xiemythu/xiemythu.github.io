@@ -11,6 +11,7 @@ author_profile: true
 
 
 ## Peer-Reviewed Articles
+* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets." (***Global Public Policy and Governance*** (forthcoming))
 
 *  **Mengying Xie**, "Network effects of international environmental agreements on domestic climate governance," [in Chinese] ***World Economics and Politics***(世界经济与政治), No.4, 2025, pp.133-163.
     + [PDF](https://xiemythu.github.io/files/wpe_2025.pdf)
@@ -22,8 +23,6 @@ author_profile: true
     + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [Replication Data](https://doi.org/10.7910/DVN/N8B5BC), [Online Appendix](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
 
 ## Under Revision/Review
-
-* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participate in Voluntary Carbon Markets." (Revise and Resubmit at *Journal of Comparative Policy Analysis*)
 
 * **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation" (Revise and Resubmit at *Public Administration and Development*)
 
