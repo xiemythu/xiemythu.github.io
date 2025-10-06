@@ -11,7 +11,11 @@ author_profile: true
 
 
 ## Peer-Reviewed Articles
-* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets," ***Journal of Comparative Policy Analysis*** (forthcoming)
+
+* **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation", ***Public Administration and Development***, Forthcoming.
+
+* **Mengying Xie** and  Ling Chen, “Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets," ***Journal of Comparative Policy Analysis***, Vol.27, No.3, 2025, pp.245-264,DOI: [https://doi.org/10.1080/13876988.2025.2510596](10.1080/13876988.2025.2510596).
+    + [PDF](https://xiemythu.github.io/files/xie_chen_2025.pdf)
 
 *  **Mengying Xie**, "Network effects of international environmental agreements on domestic climate governance," [in Chinese] ***World Economics and Politics***(世界经济与政治), No.4, 2025, pp.133-163.
     + [PDF](https://xiemythu.github.io/files/wpe_2025.pdf)
@@ -23,8 +27,6 @@ author_profile: true
     + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [Replication Data](https://doi.org/10.7910/DVN/N8B5BC), [Online Appendix](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
 
 ## Under Revision/Review
-
-* **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation" (Revise and Resubmit at *Public Administration and Development*)
 
 * **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review)
 
