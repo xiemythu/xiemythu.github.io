@@ -36,6 +36,7 @@ author_profile: true
 
 ## 英文同行评议学术发表
 
+* **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation", ***Public Administration and Development***, Forthcoming.
 
 * **Mengying Xie** and  Ling Chen, “[Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets](https://doi.org/10.1080/13876988.2025.2510596)," ***Journal of Comparative Policy Analysis***, Vol.27, No.3, 2025, pp.245-264.
     + [PDF](https://xiemythu.github.io/files/xie_chen_2025.pdf)
@@ -46,7 +47,6 @@ author_profile: true
  
 ## 修改在审论文
 
-* **Mengying Xie** and Yijia Jing, "Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation", ***Public Administration and Development***, RR.
 
 * **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review)
 
