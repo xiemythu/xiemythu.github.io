@@ -31,7 +31,5 @@ author_profile: true
   
 * **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review)
 
-## Working Papers
 
-* **Mengying Xie** and  Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and corporate climate lobbying." 
 
