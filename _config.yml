@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mengying Xie | Beijing Foreign Studies University"
+title                    : "Mengying Xie | BFSU"
 title_separator          : "-"
 name                     : &name "Mengying Xie"
 description              : &description "personal description"
