@@ -7,7 +7,7 @@ author_profile: true
 
 ## Books
 
-*  Ling Chen, Yue Yang, and **Mengying Xie**, *Interactions between Carbon Market Mechanisms and Global Linkages: Theory, Practice, and Future* (《碳市场机制互动与全球链接：理论、实践与未来》) (*Under Contract* with The Shanghai People's Press).
+*  Ling Chen, Yue Yang, and **Mengying Xie**, *Interactions between Carbon Market Mechanisms and Global Linkages: Theory, Practice, and Future* (《碳市场机制互动与全球链接：理论、实践与未来》) (The Shanghai People's Press, 2025).
 
 
 ## Peer-Reviewed Articles
@@ -27,9 +27,9 @@ author_profile: true
 * Yao Wen, **Mengying Xie**, and [Chong Chen](https://cc458.github.io/), "Explaining the Wave of Foreign Participation in Chinese Belt and Road Initiative: Evidence from Spatial Analyses,"[in Chinese] ***World Economics and Politics*** (世界经济与政治), No. 2, 2021, pp. 134-154.
     + [PDF](https://cc458.github.io/files/Wen_Xie_Chen_2021_BRI.pdf), [Replication Data](https://doi.org/10.7910/DVN/N8B5BC), [Online Appendix](https://cc458.github.io/files/Wen_Xie_Chen2021.pdf)
 
-## Under Revision/Review
+## Working papers
   
-* **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." (Under Review)
+* **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries." 
 
 
 
