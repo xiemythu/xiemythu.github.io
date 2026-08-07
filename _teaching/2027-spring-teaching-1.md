@@ -3,7 +3,7 @@ title: "China and Global Governance"
 collection: teaching
 type: "Workshop"
 venue: "Beijing Foreign Studies University"
-date: 2027-03
+date: 2027-03-01
 location: "Beijing, China"
 ---
 
