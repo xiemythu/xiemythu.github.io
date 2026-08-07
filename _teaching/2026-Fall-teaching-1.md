@@ -2,7 +2,7 @@
 title: "Introduction to Public Management"
 collection: teaching
 type: "Undergraduate course"
-date: 2026-09-017
+date: 2026-09
 location: "Beijing, China"
 ---
 
