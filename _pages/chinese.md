@@ -43,8 +43,8 @@ author_profile: true
 ## 工作论文
 
 
-* **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries."
-* * **Mengying Xie** and Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and corporate climate lobbying."
+* **Mengying Xie** and  Ling Chen, "China’s Global Green Footprint: Institutional Contexts and Climate Commitments in the Global South."
+* **Mengying Xie** and Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and corporate climate lobbying."
 
   
 
