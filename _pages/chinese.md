@@ -30,13 +30,13 @@ author_profile: true
 
 ## 英文同行评议学术发表
 
-* **Mengying Xie** and Yijia Jing, ["Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation"](https://doi.org/10.1002/pad.70033), ***Public Administration and Development***, First published on October 17, 2025, DOI: https://doi.org/10.1002/pad.70033. 
+* **Mengying Xie** and Yijia Jing, ["Rewarding women’s political empowerment? The effects of gender equality on foreign aid allocation"](https://doi.org/10.1002/pad.70033), ***Public Administration and Development***,  Vol. 46, No. 1, 2026, pp.46–59, DOI: https://doi.org/10.1002/pad.70033
     + [PDF](https://xiemythu.github.io/files/Xie_Jing_PAD.pdf)
 
-* **Mengying Xie** and  Ling Chen, “[Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets](https://doi.org/10.1080/13876988.2025.2510596)," ***Journal of Comparative Policy Analysis***, Vol.27, No.3, 2025, pp.245-264.
+* **Mengying Xie** and  Ling Chen, “[Private Governance in Climate Mitigation: A Global Comparison of Corporate Participation in Voluntary Carbon Markets](https://doi.org/10.1080/13876988.2025.2510596)," ***Journal of Comparative Policy Analysis***, Vol.27, No.3, 2025, pp.245-264, DOI: DOI: https://doi.org/10.1080/13876988.2025.2510596
     + [PDF](https://xiemythu.github.io/files/xie_chen_2025.pdf)
 
-* Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3),"[in English] ***Global Public Policy and Governance***, 3:60-85
+* Ling Chen, **Mengying Xie**, "[How do hard regimes absorb, overlap, and squeeze out soft regimes? Insights from global carbon markets](https://doi.org/10.1007/s43508-023-00064-3),"[in English] ***Global Public Policy and Governance***, Vol. 3, No. 1, 2023, pp. 60-85, DOI: https://doi.org/10.1007/s43508-023-00064-3
     + [PDF](https://xiemythu.github.io/files/chen_xie_2023.pdf)
 
  
