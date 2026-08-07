@@ -1,14 +1,12 @@
 ---
 title: "China and Global Governance"
 collection: teaching
-type: "Workshop"
+type: "Postgraduate Course"
+permalink: /teaching/china-and-global-governance/
 venue: "Beijing Foreign Studies University"
-date: 2027-03-01
-location: "Beijing, China" 
+date: 2026-09-01
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
-
-China and Global Governance
-======
 
