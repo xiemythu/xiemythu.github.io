@@ -7,17 +7,11 @@ author_profile: true
 
 ## 个人简介
 
-谢蒙莹，北京外国语大学国际关系学院讲师。2026年获清华大学管理学博士学位，2021年获复旦大学-伦敦政治经济学院全球政治经济英文双硕士学位，2019年获南开大学国际政治专业法学学士学位；曾担任牛津大学政治与国际关系学系访问学生。主要研究领域包括全球治理（如跨国气候治理、私人规制）、国际发展（“一带一路”倡议、国际援助）以及可持续发展政策（绿色基础设施建设、气候变化、性别平等）。研究成果发表于《世界经济与政治》、*Journal of Comparative Policy Analysis*, *Global Public Policy and Governance*, *Public Administration and Development* 等学术期刊。
+谢蒙莹，北京外国语大学国际关系学院讲师。2026年获清华大学管理学博士学位，2021年获复旦大学-伦敦政治经济学院全球政治经济英文双硕士学位，2019年获南开大学国际政治专业法学学士学位；曾担任牛津大学政治与国际关系学系访问学生。主要研究领域包括全球治理（跨国气候治理、私人规制）、国际发展（国际援助、能源转型）以及国际政治经济学（气候变化的政治经济学）。研究成果发表于《世界经济与政治》、*Journal of Comparative Policy Analysis*, *Public Administration and Development*, *Global Public Policy and Governance*等学术期刊。
 
 - 点击下载我的[**中文简历**](https://xiemythu.github.io/files/cv_mengying_chinese.pdf)。
 
 - 点击查看我的[**科研**](#科研)情况。
-
-
-- 联系方式
-   + 通讯地址：北京市海淀区清华大学公共管理学院，邮编 100084
-   + 电子邮件: <mengyingxie96@163.com>
-
  
 
 # 科研
@@ -50,6 +44,8 @@ author_profile: true
 
 
 * **Mengying Xie** and  Ling Chen, "A new window of opportunity? Explaining the influence of China’s involvement in energy transitions across developing countries."
+* * **Mengying Xie** and Yixian Sun, "Global ties, local leverages: Transnational public-private initiatives and corporate climate lobbying."
+
   
 
 
